@@ -10,8 +10,7 @@
         <module>integration-batch</module>
         <module>integration-core</module>
         <module>integration-admin</module>
-        <module>integration-demo-cyh</module>
-        <module>integration-demo-tcl</module>
+        <module>integration-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
