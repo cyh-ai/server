@@ -6,4 +6,9 @@ package com.integration.demo.tcl;
  * 用户类
  */
 public class User {
+
+
+    /**
+     *
+     */
 }
