@@ -1,4 +1,4 @@
-package com.integration.demo.cyh.xc;
+package com.integration.demo.cyh.demo.xc;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;

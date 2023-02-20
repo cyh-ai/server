@@ -1,4 +1,4 @@
-package com.integration.demo.cyh.xc;
+package com.integration.demo.cyh.demo.xc;
 
 /**
  * @author cyh
